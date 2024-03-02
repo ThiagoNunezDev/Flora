@@ -1,0 +1,13 @@
+/*CSS EXTERNO*/
+
+body{
+    text-align: center;
+    background-color: brown;
+    color:aliceblue
+}
+
+/*DIV ID */
+#cabeçalho{
+    height: 300px;
+    background-color: crimson;
+}
